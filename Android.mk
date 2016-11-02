@@ -1,4 +1,4 @@
-ifeq ($(filter-out aries castor castor_windy leo scorpion scorpion_windy sirius,$(TARGET_DEVICE)),)
+ifeq ($(filter-out z3c castor castor_windy leo scorpion scorpion_windy sirius,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 

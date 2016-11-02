@@ -34,7 +34,7 @@ static inline const char* getBTDefaultName()
         return "Xperia Z2 Tablet";
     } else if (!strcmp("leo", device)) {
         return "Xperia Z3";
-    } else if (!strcmp("aries", device)) {
+    } else if (!strcmp("z3c", device)) {
         return "Xperia Z3 Compact";
     } else if (!strcmp("scorpion", device)) {
         return "Xperia Z3 Tablet";

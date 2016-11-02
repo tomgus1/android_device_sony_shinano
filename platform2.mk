@@ -27,7 +27,3 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(SONY_ROOT)/system/etc/sec_config:system/etc/sec_config
 
-# WIFI Tethering
-PRODUCT_COPY_FILES += \
-    $(SONY_ROOT)/system/etc/hostapd/hostapd_default.conf:system/etc/hostapd/hostapd_default.conf
-
